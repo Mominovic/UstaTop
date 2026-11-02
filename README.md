@@ -15,8 +15,7 @@ Hech qanday paket yoki kutubxona o‘rnatish shart emas.
 cd UstaTop_Website
 python3 -m http.server 8000
 ```
-https://mominovic.github.io/UstaTop/
-Brauzerda `http://localhost:8000` manzilini oching. To‘xtatish uchun terminalda `Ctrl + C` bosing.
+Brauzerda https://mominovic.github.io/UstaTop/ manzilini oching. To‘xtatish uchun terminalda `Ctrl + C` bosing.
 
 ## Hozir ishlaydigan qismlar
 - Xizmatlar katalogi, qidiruv va kategoriya filtrlari
